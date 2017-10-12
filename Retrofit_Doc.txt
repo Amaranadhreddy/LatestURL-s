@@ -1,0 +1,15 @@
+Retrofit mainly need 3 things:
+=> Retrofit Instance
+   -> Retrofit.Builder Class
+   -> Convert base URL to converter factory
+=> Model Class
+   -> POJO Class for Sending & Receiving request
+   -> Parse the server response by using GSON
+=> An Interface
+   -> Possible API calls
+   -> GET & POST
+   -> Call Class
+
+* Sending a request by make a call to 'create()'.
+* Make the network request & wait for the response on background thread , and 
+   delver the result by using "onResponse()" & "onFailure()"

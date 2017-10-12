@@ -1,0 +1,140 @@
+=> 20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+   https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
+
+
+June :-
+===
+
+=> The Android 10 most influential blogs from the last year
+   https://medium.com/@jordanjoz/12-android-blogs-you-should-be-following-1220c7e5398d
+
+=> AnimatedStateListDrawable(Circle CheckBox with colours) :-
+   https://blog.stylingandroid.com/animatedstatelistdrawable/?utm_source=Android+Weekly&utm_campaign=65cef78229-android-weekly-264&utm_medium=email&utm_term=0_4eb677ad19-65cef78229-338016197
+
+=> LocationServices(Get Latitude & Longitude values with Fragments) :-
+   https://blog.stylingandroid.com/locationservices/?utm_source=Android+Weekly&utm_campaign=65cef78229-android-weekly-264&utm_medium=email&utm_term=0_4eb677ad19-65cef78229-338016197
+   https://github.com/StylingAndroid/LocationServices
+
+=> Bubble-Picker :-
+   https://yalantis.com/blog/how-we-created-bubblepicker-a-colourful-animation-for-android/?utm_source=Android+Weekly&utm_campaign=8810b25681-android-weekly-255&utm_medium=email&utm_term=0_4eb677ad19-8810b25681-338016197
+   https://github.com/igalata/Bubble-Picker
+
+=> Making Java Code Easier to Read (Without Changing it) :-
+   https://medium.com/@andrey_cheptsov/making-java-code-easier-to-read-without-changing-it-adeebd5c36de
+   https://github.com/cheptsov/AdvancedExpressionFolding/issues/76
+
+=> Make a moving Gradient Background in Android(Automatically will be change layout background color's)
+   http://thetechnocafe.com/make-a-moving-gradient-background-in-android/?utm_source=Android+Weekly&utm_campaign=e4546b09cb-android-weekly-252&utm_medium=email&utm_term=0_4eb677ad19-e4546b09cb-338016197
+
+=> From design to android, part 1(Like Amazon type)
+   http://saulmm.github.io/from-design-to-android-part1?utm_source=Android+Weekly&utm_campaign=0657fbdef4-android-weekly-249&utm_medium=email&utm_term=0_4eb677ad19-0657fbdef4-338016197
+   https://github.com/saulmm/From-design-to-Android-part1
+
+=> Android Fingerprint Authentication
+   http://josiassena.com/android-fingerprint-authentication/?utm_source=Android+Weekly&utm_campaign=0657fbdef4-android-weekly-249&utm_medium=email&utm_term=0_4eb677ad19-0657fbdef4-338016197
+   https://github.com/josias1991/FingerPrintSample
+
+=> Workcation App – Part 2. Animating Markers with MapOverlayLayout
+   https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/?utm_source=Android+Weekly&utm_campaign=a7b955ad5e-android-weekly-248&utm_medium=email&utm_term=0_4eb677ad19-a7b955ad5e-338016197
+   https://github.com/panwrona/Workcation
+
+=> Unboxing the FlexboxLayout
+   https://blog.devcenter.co/unboxing-the-flexboxlayout-a7cfd125f023
+   https://github.com/google/flexbox-layout
+
+=> Alerter
+   https://github.com/Tapadoo/Alerter?utm_source=Android+Weekly&utm_campaign=24e431e122-android-weekly-245&utm_medium=email&utm_term=0_4eb677ad19-24e431e122-338016197
+
+=> mkloader(Different types of loading)
+   https://github.com/nntuyen/mkloader?utm_source=Android+Weekly&utm_campaign=24e431e122-android-weekly-245&utm_medium=email&utm_term=0_4eb677ad19-24e431e122-338016197
+
+=> Toasty (Different styles of Toast's)
+   https://github.com/GrenderG/Toasty?utm_source=Android+Weekly&utm_campaign=8ab4301908-AndroidWeekly_241&utm_medium=email&utm_term=0_4eb677ad19-8ab4301908-338016197
+
+=> BufferTextInputLayout
+   https://github.com/bufferapp/BufferTextInputLayout?utm_source=Android+Weekly&utm_campaign=aa29d184f9-Android_Weekly_236&utm_medium=email&utm_term=0_4eb677ad19-aa29d184f9-338016197
+
+=> Download Manager - part - 3
+   https://blog.stylingandroid.com/downloadmanager-part-3/?utm_source=Android+Weekly&utm_campaign=1dd41efcab-Android_Weekly_235&utm_medium=email&utm_term=0_4eb677ad19-1dd41efcab-338016197
+   https://github.com/StylingAndroid/DownloadManager/tree/Part3
+
+=> Page-Flip
+   https://github.com/eschao/android-PageFlip?utm_source=Android+Weekly&utm_campaign=07f7847e4e-Android_Weekly_234&utm_medium=email&utm_term=0_4eb677ad19-07f7847e4e-338016197
+
+=> Page_Loader
+   https://github.com/arieridwan8/pageloader?utm_source=Android+Weekly&utm_campaign=07f7847e4e-Android_Weekly_234&utm_medium=email&utm_term=0_4eb677ad19-07f7847e4e-338016197
+
+=> Smart_Scheduler
+   https://github.com/hypertrack/smart-scheduler-android?utm_source=Android+Weekly&utm_campaign=07f7847e4e-Android_Weekly_234&utm_medium=email&utm_term=0_4eb677ad19-07f7847e4e-338016197
+
+=> Keyframes
+   https://github.com/facebookincubator/Keyframes?utm_source=Android+Weekly&utm_campaign=07f7847e4e-Android_Weekly_234&utm_medium=email&utm_term=0_4eb677ad19-07f7847e4e-338016197
+
+=> BlurKit
+   https://github.com/gogopop/BlurKit-Android?utm_source=Android+Weekly&utm_campaign=71dea05da0-Android_Weekly_233&utm_medium=email&utm_term=0_4eb677ad19-71dea05da0-338016197
+
+=> Crescento
+   https://github.com/developer-shivam/Crescento
+
+=> LongPress-PopUp
+   https://github.com/RiccardoMoro/LongPressPopup?utm_source=Android+Weekly&utm_campaign=a73cc3ac35-Android_Weekly_232&utm_medium=email&utm_term=0_4eb677ad19-a73cc3ac35-338016197
+
+=> RMSwitch
+   https://github.com/RiccardoMoro/RMSwitch?utm_source=Android+Weekly&utm_campaign=a73cc3ac35-Android_Weekly_232&utm_medium=email&utm_term=0_4eb677ad19-a73cc3ac35-338016197
+
+=> Depth-LIB-Android
+   https://github.com/danielzeller/Depth-LIB-Android-?utm_source=Android+Weekly&utm_campaign=a73cc3ac35-Android_Weekly_232&utm_medium=email&utm_term=0_4eb677ad19-a73cc3ac35-338016197
+
+=> BottomNavigationView
+   https://github.com/StylingAndroid/BottomNavigationView
+
+=> ChipsLayoutManager
+   https://github.com/BelooS/ChipsLayoutManager?utm_source=Android+Weekly&utm_campaign=0edd406528-Android_Weekly_231&utm_medium=email&utm_term=0_4eb677ad19-0edd406528-338016197
+
+=> Proguards
+   https://github.com/yongjhih/android-proguards?utm_source=Android+Weekly&utm_campaign=affdf3fd0e-Android_Weekly_230&utm_medium=email&utm_term=0_4eb677ad19-affdf3fd0e-338016197
+
+=> Moxy
+   https://github.com/Arello-Mobile/Moxy?utm_source=Android+Weekly&utm_campaign=affdf3fd0e-Android_Weekly_230&utm_medium=email&utm_term=0_4eb677ad19-affdf3fd0e-338016197
+
+=> PageIndicatorView
+   https://github.com/romandanylyk/PageIndicatorView?utm_source=Android+Weekly&utm_campaign=5f639dab6b-Android_Weekly_228&utm_medium=email&utm_term=0_4eb677ad19-5f639dab6b-338016197
+
+=> DiagonalLayout
+   https://github.com/florent37/DiagonalLayout?utm_source=Android+Weekly&utm_campaign=5f639dab6b-Android_Weekly_228&utm_medium=email&utm_term=0_4eb677ad19-5f639dab6b-338016197
+
+=> AnimatorDurationTile
+   https://github.com/nickbutcher/AnimatorDurationTile?utm_source=Android+Weekly&utm_campaign=f4c54e38d8-Android_Weekly_226&utm_medium=email&utm_term=0_4eb677ad19-f4c54e38d8-338016197
+
+=> DateTimeSeer
+   https://github.com/p-v/DateTimeSeer/?utm_source=Android+Weekly&utm_campaign=f4c54e38d8-Android_Weekly_226&utm_medium=email&utm_term=0_4eb677ad19-f4c54e38d8-338016197
+
+=> Groupie
+   https://github.com/lisawray/groupie?utm_source=Android+Weekly&utm_campaign=c8307a8cda-Android_Weekly_225&utm_medium=email&utm_term=0_4eb677ad19-c8307a8cda-338016197
+
+=> EncryptedPreferences
+   https://github.com/PDDStudio/EncryptedPreferences?utm_source=Android+Weekly&utm_campaign=30733096d0-Android_Weekly_224&utm_medium=email&utm_term=0_4eb677ad19-30733096d0-338016197
+
+=> DoorSignView
+   https://github.com/renaudcerrato/DoorSignView?utm_source=Android+Weekly&utm_campaign=88bd50a57f-Android_Weekly_223&utm_medium=email&utm_term=0_4eb677ad19-88bd50a57f-338016197
+
+=> Itemtouchhelper-extension
+   https://github.com/loopeer/itemtouchhelper-extension?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-338016197
+
+=> FrescoImageViewer
+   https://github.com/stfalcon-studio/FrescoImageViewer?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-338016197
+
+=> recyclerviewhelper
+   https://github.com/nisrulz/recyclerviewhelper?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-338016197
+
+=> Paginize
+   https://github.com/neevek/Paginize?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-338016197
+
+=> Displaying HTML tags on TextView the right way
+   http://saket.me/html-tags-textview/?utm_source=Android+Weekly&utm_campaign=4fc49af2d9-android-weekly-265&utm_medium=email&utm_term=0_4eb677ad19-4fc49af2d9-338016197
+
+=> A better way to handle links in TextView
+   http://saket.me/better-url-handler-textview-android/
+
+=> distraction-free-reading-part-1
+   https://github.com/kiwiandroiddev/distraction-free-reading-part-1

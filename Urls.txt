@@ -1,0 +1,528 @@
+May :-
+===
+
+=> Android Icon's
+   https://www.flaticon.com/
+   https://material.io/icons/
+
+=>  Set the icon sizes
+   https://romannurik.github.io/AndroidAssetStudio/
+
+=> Sort ArrayList of custom Objects by property
+   https://stackoverflow.com/questions/2784514/sort-arraylist-of-custom-objects-by-property
+
+=> Converting String to Double in Android
+   https://stackoverflow.com/questions/6866633/converting-string-to-double-in-android
+
+=> how to convert double to string in android
+   https://stackoverflow.com/questions/16334820/how-to-convert-double-to-string-in-android/16334913
+
+=> GridLayoutManager for count numbers of horizontal and vertical, by using CardView and RecyclerView
+   https://stackoverflow.com/questions/40587168/simple-android-grid-example-using-recyclerview-with-gridlayoutmanager-like-the
+
+=> Pending - http://www.androidhive.info/2012/08/android-session-management-using-shared-preferences/
+
+=> Rectangle shape for EditText
+   http://www.androidtpoint.com/create-rectangle-background-view-android/
+
+=> How to pass double value to a textview in Android
+   https://stackoverflow.com/questions/9998221/how-to-pass-double-value-to-a-textview-in-android
+
+=> How do I send a file in Android from a mobile device to server using http?
+   https://stackoverflow.com/questions/4126625/how-do-i-send-a-file-in-android-from-a-mobile-device-to-server-using-http
+   Last One
+
+=> How to Implement draggable map like uber android, Update with change location
+   https://stackoverflow.com/questions/27504606/how-to-implement-draggable-map-like-uber-android-update-with-change-location
+   https://github.com/Sishin/MapLocation
+
+=> Image load from url, Internet , XML, & JSON Parsing Process
+   amaranadhao.tms@gmail.com (Practice folder)
+
+=> Search functionality with edittext in ListView - addTextChangedListener
+   http://www.androidhive.info/2012/09/android-adding-search-functionality-to-listview/
+
+=> Calendar - TMS
+   http://androidfromhome.com/android-calendar-view/
+
+=> Google Map Library
+   https://stackoverflow.com/questions/17135099/android-studio-with-gradle-and-google-maps-v2
+
+=> Display current location by a marker on the map in Android
+   https://www.mytrendin.com/display-current-location-by-a-marker-on-the-map-in-android/
+
+=> Google Maps Near by places
+   http://wptrafficanalyzer.in/blog/showing-nearby-places-and-place-details-using-google-places-api-and-google-maps-android-api-v2/
+
+=> Android Design Patterns
+   https://www.raywenderlich.com/109843/common-design-patterns-for-android
+
+=> Google plus Integration
+   http://www.androidhive.info/2014/02/android-login-with-google-plus-account-1/
+   https://www.simplifiedcoding.net/google-login-android-tutorial-integrate-gplus-login/
+
+=> TMS Calender
+   http://androidfromhome.com/android-calendar-view/
+
+=> For OTP reading ,Reading incoming SMS messages for verification (OTP) in Android
+   1)http://swarajsaaj.github.io/posts/reading-sms-automatically-otp-verification-android
+2)http://androiddhina.blogspot.in/2015/06/reading-incoming-message-automatically-to-verify-OTP.html
+3)https://www.simplifiedcoding.net/android-sms-verification-app-phone-verification-with-otp/
+4)http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-2/
+
+=> Image View In Rounded Corners
+   http://stackoverflow.com/questions/2459916/how-to-make-an-imageview-with-rounded-corners
+
+=> Svn for Android 
+   http://www.cs.dartmouth.edu/~campbell/cs65/svn/androidstudio.html
+
+=> 8. Materialized Colors, Meterial Icons, Android Icons ,For icons 
+1)http://www.flaticon.com/
+2) https://material.io/icons/
+3)https://icons8.com/android-icons/
+4)https://material.io/guidelines/style/color.html#color-color-palette
+
+=> Nested Recycler View
+http://blog.aimanbaharum.com/2016/01/24/nested-recyclerviews/
+
+=> Cutom AlertDailog
+http://www.pcsalt.com/android/create-alertdialog-with-complex-custom-layout-programmatically/
+
+=> Creating Dynamic Views in android
+1)https://androiddesk.wordpress.com/tag/creating-dynamic-views-in-android/
+2)http://a2zandroidtutorials.blogspot.in/2012/07/static-and-dynamic-creation-of.html
+
+13.Getting value from dynamically created textview in android
+http://stackoverflow.com/questions/25154446/getting-value-from-dynamically-created-textview-in-android 
+
+14.UPI integration 
+http://www.planmoneytax.com/upi-unified-payment-interface/
+
+15.AES Encripiton & Decription
+https://coderanch.com/t/580297/java/written-java-code-encryption-decryption
+http://www.java2s.com/Code/Java/Security/EncryptionanddecryptionwithAESECBPKCS7Padding.htm
+http://www.quickprogrammingtips.com/java/how-to-encrypt-and-decrypt-data-in-java-using-aes-algorithm.html
+
+16. SHA Encription
+https://www.mkyong.com/java/java-sha-hashing-example/
+
+17.Installing the Android Debug Bridge (ADB) USB Driver on a Windows Computer
+https://software.intel.com/en-us/xdk/docs/installing-android-debug-bridge-adb-usb-driver-on-windows
+
+18.Android Log.v(), Log.d(), Log.i(), Log.w(), Log.e() - When to use each one?
+http://stackoverflow.com/questions/7959263/android-log-v-log-d-log-i-log-w-log-e-when-to-use-each-one
+
+19.Display back button of action bar is not going back in Android
+http://stackoverflow.com/questions/36457564/display-back-button-of-action-bar-is-not-going-back-in-android
+
+20. Android Tab bars
+http://www.technotalkative.com/android-tab-bar-example-1/
+
+21.RecyclerView In Android
+http://www.androidhive.info/2016/01/android-working-with-recycler-view/
+
+22. Border to textview
+http://code2care.org/pages/how-to-add-border-to-android-textview/
+
+June :-
+===
+
+=>  Multiple Auto Image Slider Example Tutorial using Online URL
+   http://www.android-examples.com/android-multiple-auto-image-slider-example-tutorial-using-online-url/   
+
+=> Volley example
+   https://www.androidhive.info/2014/09/android-json-parsing-using-volley/
+   https://www.simplifiedcoding.net/android-volley-tutorial-to-get-json-from-server/
+   http://www.androidhive.info/2014/07/android-custom-listview-with-image-and-text-using-volley/
+
+   By using volley pluse library for volley
+
+=> Realm Database
+   http://www.thecrazyprogrammer.com/2016/12/android-realm-database-tutorial.html
+   http://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/
+   http://www.androidhive.info/2016/04/android-glide-image-library-building-image-gallery-app/
+   http://www.androidhive.info/2014/08/android-building-free-wallpapers-app-part-1/
+
+=> Retrofit
+   Androidhive - Third party permissions
+   Learn2Crack
+
+=> Firebase login
+   http://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/
+   http://www.androidhive.info/2016/10/android-working-with-firebase-realtime-database/
+   http://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/
+
+=> Firebase Database
+   http://www.androidhive.info/2016/10/android-working-with-firebase-realtime-database/
+
+=> JSON Parsing with URL
+   TMS with "JSONParsingApplication" file example & amaranadhao.tms@gmail.com
+
+=> XML Parsing with file upload in assets folder
+   https://www.tutorialspoint.com/android/android_xml_parsers.htm
+
+=> XML Parsing with URL
+   http://www.androidbegin.com/tutorial/android-xml-parsing-dom-tutorial/
+
+=>  How To Change Package Name In Android Studio
+   http://devdeeds.com/change-package-name-android-studio/
+
+=>  How to Increase the Integer Value When Button is Clicked
+   http://www.viralandroid.com/2015/10/how-to-increase-integer-value-when-button-is-clicked.html
+
+=>  Programmatically obtain the phone number of the Android phone
+   http://stackoverflow.com/questions/2480288/programmatically-obtain-the-phone-number-of-the-android-phone
+
+   http://rdeshapriya.com/android-figuring-out-the-mobile-network-programmatically/
+
+=>  Facebook integration
+   http://androidexample.com/Facebook_Integration_-_Android_Example/index.php?view=article_discription&aid=150&aaid=164
+
+=>  How to convert a Base64 string into a BitMap image to show it in a ImageView?
+   http://stackoverflow.com/questions/4837110/how-to-convert-a-base64-string-into-a-bitmap-image-to-show-it-in-a-imageview
+
+=>  Convert Image to Base64 String or Base64 String to Image
+   http://www.thecrazyprogrammer.com/2016/10/android-convert-image-base64-string-base64-string-image.html
+
+=>  Convert String(base64) to File
+   https://stackoverflow.com/questions/28701598/convert-url-string-into-java-io-file
+
+=> Load image from url
+   https://stackoverflow.com/questions/5776851/load-image-from-url
+
+=> Animation ZoomIn, ZoomOut, FadeIn, FadeOut, Sequential, CrossFade, Scale, Rotate, Move, SlideUp, SlideDown, Blink, Bonce
+   http://www.androidhive.info/2013/06/android-working-with-xml-animations/
+
+=> Dynamically add and remove Views in android
+   https://www.androidtutorialpoint.com/basics/dynamically-add-and-remove-views-in-android/
+   & Example in Gmail - amaranadhao.tms@gmail.com
+
+
+=>  ListView with Alphabetical side index
+   http://androidopentutorials.com/android-listview-with-alphabetical-side-index/
+
+   ->  Enabling Search Functionality- 
+      http://www.androidhive.info/2012/09/android-adding-search-functionality-to-listview/
+
+=>  Localization
+   TMS
+
+=> JSON Parsing URLs: 
+   http://api.androidhive.info/json/imdb_top_250.php?offset=
+   http://api.androidhive.info/contacts/
+   http://www.thecrazyprogrammer.com/example_data/fruits_array.json
+
+=> XML Parsing URLs:
+   http://www.androidbegin.com/tutorial/XMLParseTutorial.xml
+   http://api.androidhive.info/pizza/?format=xml
+
+=> Convert Java to Kotlin
+   https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt
+
+=> android add edittext field on click of (+) button and remove by click of (-)
+   https://www.androidtutorialpoint.com/basics/dynamically-add-and-remove-views-in-android/
+
+=> Table Layout
+   http://androidexample.com/Table_Layout_-_Android_Example/index.php?view=article_discription&aid=74
+
+=> Lazy Loading
+   http://blogs.innovationm.com/lazy-loading-and-memory-management-of-images-in-listview-in-android/
+
+=> Facing
+  http://www.androidhive.info/2014/12/android-uploading-camera-image-video-to-server-with-progress-bar/
+ 
+Custom Toast -> javaTpoint, viralAndroid, example in custom_toast in gmail
+
+=> Number of weeks in current month
+   Calendar calendar = Calendar.getInstance();
+   System.out.println(calendar.getActualMaximum(Calendar.WEEK_OF_MONTH));
+
+=> Populate spinner with years dynamically in Android?
+   https://stackoverflow.com/questions/15914705/populate-spinner-with-years-dynamically-in-android
+
+=> Horizontal Step Progress Bar
+   https://stackoverflow.com/questions/14581602/android-how-to-implement-horizontal-step-progress-bar
+
+=> Read More button in android
+   https://stackoverflow.com/questions/36638139/read-more-button-in-android
+
+=> Move from Activity(TestActivity extends FragmentActivity) to Fragment(MainActivity extends Fragment)
+                FragmentManager fragmentManager = TestActivity.this.getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                MainActivity fragment = new MainActivity();
+                fragmentTransaction.add(R.id.fragment, fragment); //ERROR ON THIS LINE
+                fragmentTransaction.commit();
+
+	* fragment(R.id) - Current class layout Id.
+
+	-> amaranadhao.tms@gmail.com
+
+=> How to Debug Your Android App over WiFi (without Root!)
+   https://www.quora.com/Can-you-connect-your-device-to-Android-studio-without-USB-cable
+   https://futurestud.io/tutorials/how-to-debug-your-android-app-over-wifi-without-root
+
+Ex:-
+
+   F:\sdk\platform-tools>adb devices
+   List of devices attached
+   F:\sdk\platform-tools>adb connect 10.10.10.165
+   connected to 10.10.10.165:5555
+
+=> Pdf Reader
+   http://upadhyayjiteshandroid.blogspot.in/2013/03/android-pdf-viewer-application.html
+
+=> Excel Reader (Read Write EXCEL file using Apache POI)
+   http://www.mysamplecode.com/2011/10/android-read-write-excel-file-using.html
+
+=> Simple Game
+   https://www.sourcecodester.com/android/6230/simple-game-android.html
+
+
+July :-
+===
+
+=> Google Maps Draw Route between two points using Google Directions in Google Map (Findout two locations)
+   https://www.androidtutorialpoint.com/intermediate/google-maps-draw-path-two-points-using-google-directions-google-map-android-api-v2/
+   amardroid1@gmail.com
+
+=> Places AutoCompleteTextView
+   https://stackoverflow.com/questions/36009154/places-autocomplete-android
+   http://www.truiton.com/2015/04/android-places-api-autocomplete-getplacebyid/
+   https://github.com/Truiton/PlaceAPIAutocomplete 
+
+=> FloatingActionButton
+   https://www.androidhive.info/2015/12/android-material-design-floating-action-button/
+
+=> How to get complete address from latitude and longitude?
+   https://stackoverflow.com/questions/9409195/how-to-get-complete-address-from-latitude-and-longitude
+
+=> Android Studio Shortcuts
+   File -> Settings -> KeyMap
+
+=> How to show the menu list by clicking the button?
+   https://stackoverflow.com/questions/13551531/how-to-show-the-menu-list-by-clicking-the-button
+
+Aug:-
+===
+
+=> SearchView
+   http://www.viralandroid.com/2016/04/simple-android-searchview-example.html
+   http://abhiandroid.com/ui/searchview
+
+=> Navigation drawer - disable swipe
+   https://stackoverflow.com/questions/17901504/navigation-drawer-disable-swipe
+
+=> Android M Camera Intent + permission bug?
+   https://stackoverflow.com/questions/32789027/android-m-camera-intent-permission-bug
+
+=> Launching Google Maps Directions via an intent on Android
+   https://stackoverflow.com/questions/2662531/launching-google-maps-directions-via-an-intent-on-android
+   Intent intent = new Intent(android.content.Intent.ACTION_VIEW, Uri.parse("google.navigation:q=guntur+ap"));
+   startActivity(intent);
+
+PhoneGap:-
+-----------
+=> Phonegap with Android Studio
+   https://www.youtube.com/watch?v=V1VVMVlZgoI
+
+   -> Create Android Project
+   -> Set Path in Environment variables
+       Advanced system settings - Environment variables - System variables - path - Edit - C:\Program Files\nodejs\ (copy)
+      User variables - path - Edit - ;C:\Program Files\nodejs\ (paste) - ok - ok - ok
+   -> Open Command Prompt
+       C:\Users\...>phonegap - yes
+       E:\Amar\PhoneGap>phonegap create SamplePhoneGap com.amar.org.phonegapsample
+       E:\Amar\PhoneGap\SamplePhoneGap>phonegap platform add android>phonegap platform add android
+   -> Import Android Project to Android Studio tool
+       E:\Amar\PhoneGap\SamplePhoneGap\platforms\android
+   -> android - assets - www - index.html file is main file
+
+Sep:-
+===
+
+=> Reading incoming SMS messages for verification (OTP) in Android
+   http://swarajsaaj.github.io/posts/reading-sms-automatically-otp-verification-android
+
+=> How to create DatePickerDialog with different styles
+   https://www.android-examples.com/change-datepickerdialog-theme-in-android-using-dialogfragment/
+
+=> Hide/Remove calendar from DatePicker in android using XML
+   https://www.android-examples.com/hide-remove-calendar-from-datepicker-in-android-using-xml/
+
+=> Android Real Time Chat Application Using Firebase
+   http://www.thecrazyprogrammer.com/2016/10/android-real-time-chat-application-using-firebase-tutorial.html
+
+=> Firebase Autentication(Read OTP)
+   https://github.com/firebase/quickstart-android
+
+=> Android Keyboard with Emoji
+   https://stackoverflow.com/questions/25167428/android-keyboard-with-emoji
+
+=> GridLayoutManager with RecyclerView
+   https://inducesmile.com/android/android-gridlayoutmanager-with-recyclerview-in-material-design/
+
+=> Android Horizontal Recycler View scroll Direction
+   https://stackoverflow.com/questions/37733221/android-horizontal-recycler-view-scroll-direction
+
+=> How to get a variable from another class
+
+   Previous class:
+
+      ListOfURLs:-
+         Create Constructor & 
+         centralString = "http://seapi.testersworld.com/api/";
+
+   Current class:
+         ListOfURLs().centralString;
+
+=> Datepicker: How to popup datepicker when click on edittext
+   https://stackoverflow.com/questions/14933330/datepicker-how-to-popup-datepicker-when-click-on-edittext
+
+=> Bottom-Navigation
+   https://github.com/segunfamisa/bottom-navigation-demo
+
+=> How to disable BottomNavigationView shift mode?
+   Sharmak Tms [3:49 PM] 
+https://stackoverflow.com/questions/40176244/how-to-disable-bottomnavigationview-shift-mode
+
+=> Firebase Cloud Messaging Tutorial for Android
+   https://www.simplifiedcoding.net/firebase-cloud-messaging-tutorial-android/
+
+=> Background color change in BottomNavigationView
+   https://androidsolved.com/question/android/answer/41421553/background-color-change-in-bottomnavigationview
+
+=> Android App With Stripe Payment | Back4App
+   https://docs.back4app.com/docs/integrations/android-app-with-stripe-payment/
+
+=> How to get all child's data in firebase database?
+   https://stackoverflow.com/questions/38965731/how-to-get-all-childs-data-in-firebase-database
+
+=> Android Mad: How to Create a Digital Signature Application in Android
+   https://androidmads.blogspot.in/2015/10/digital-signature-in-android.html
+
+=> Android PDF viewer Application
+   http://upadhyayjiteshandroid.blogspot.in/2013/03/android-pdf-viewer-application.html
+
+=> How can I show current location on a Google Map on Android Marshmallow?
+   https://stackoverflow.com/questions/34582370/how-can-i-show-current-location-on-a-google-map-on-android-marshmallow/34582595
+
+=> YouTube Integration
+   https://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/
+
+Oct :-
+===
+
+=> Less code for onClick() method
+   https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9
+
+public interface DebouncingOnClickListener extends View.OnClickListener {
+
+    Enabled enabled = new Enabled(true);
+
+    Runnable ENABLE_AGAIN = () -> enabled.set(true);
+    void doClick(View v);
+
+    @Override
+    default void onClick(View view){
+        if (enabled.get()) {
+            enabled.set(false);
+            view.post(ENABLE_AGAIN);
+            doClick(view);
+        }
+    }
+}
+
+public class Enabled {
+
+    private boolean raw;
+
+    Enabled(boolean initialValue) {
+        this.raw = initialValue;
+    }
+
+    public boolean get() {
+        return raw;
+    }
+
+    public void set(boolean enabled) {
+        this.raw = enabled;
+    }
+}
+
+
+public class MainActivity extends AppCompatActivity {
+
+    private Button btnClick;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        btnClick = (Button) findViewById(R.id.btn_click);
+
+        btnClick.setOnClickListener(new DebouncingOnClickListener() {
+            @Override
+            public void doClick(View v) {
+
+                Toast.makeText(MainActivity.this, "Clicked!", Toast.LENGTH_SHORT).show();
+
+            }
+        });
+    }
+}
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId "com.amar.org.testapp"
+        minSdkVersion 21
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        jackOptions {
+            enabled true
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:26.+'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+
+    compile 'com.jakewharton:butterknife:8.0.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.0.1'
+}
+
+=> Get current location latitude, longitude values, current time, city name, and pincode with FusedLocationProviderClient
+   https://github.com/askfortricks/FusedLocationProviderClient
+
+=> Get current location latitude and longitude values by using FusedLocationProviderApi
+   https://github.com/askfortricks/FusedLocationProvider-Api-Demo
+
+=> Integer value in TextView
+   https://stackoverflow.com/questions/3994315/integer-value-in-textview
+
+=> How to create a random 16 digits number, with specific first digits?
+   https://stackoverflow.com/questions/27843947/how-to-create-a-random-16-digits-number-with-specific-first-digits
+
+=> Android Get Address with Street Name, City for Location with Geocoding
+   http://javapapers.com/android/android-get-address-with-street-name-city-for-location-with-geocoding/
